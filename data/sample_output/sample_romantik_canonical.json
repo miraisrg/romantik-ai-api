@@ -1,0 +1,188 @@
+{
+  "wilayah": "0000",
+  "id_trans": 56219,
+  "nama_kegiatan": "Kompilasi Data Pelaporan Gratifikasi",
+  "tahun_kegiatan": 2026,
+  "instansi": "Komisi Pemberantasan Korupsi",
+  "status_pengajuan": "selesai",
+  "status_rekomendasi": "ditolak",
+  "is_bps_pusat": true,
+  "schema_family": "modern_nested",
+  "form": {
+    "metadata": {
+      "schema_family": "modern_nested",
+      "nomor_rekomendasi": null,
+      "jenis_kegiatan": null,
+      "judul": "Kompilasi Data Pelaporan Gratifikasi"
+    },
+    "blok_i": {
+      "instansi_penyelenggara": "Komisi Pemberantasan Korupsi",
+      "alamat_instansi_penyelenggara": {
+        "alamat": "Jln. Kuningan Persada Kav. 4 , Jakarta Selatan 12950",
+        "telepon": "(021) 2557 8300",
+        "email": "informasi@kpk.go.id",
+        "faksimile": "(021) 2557 8333"
+      }
+    },
+    "blok_ii": {
+      "unit_penanggung_jawab": {
+        "eselon1": "Deputi Bidang Pencegahan dan Monitoring",
+        "eselon2": "Direktorat Gratifikasi dan Pelayanan Publik"
+      },
+      "penanggung_jawab_teknis": {
+        "nama": "Indira Malik",
+        "jabatan": "Ahli Madya Analis PTPK",
+        "alamat": "KPK",
+        "telepon": "",
+        "email": "ppg.gratifikasikpk@gmail.com",
+        "faksimile": ""
+      }
+    },
+    "blok_iii": {
+      "latar_belakang_kegiatan": "<p>Untuk keterbukaan informasi publik Direktorat Gratifikasi dan Pelayanan Publik melakukan Kompilasi Data Laporan Gratifikasi Tahun 2025 secara periodik berdasarkan kegiatan pengelolaan laporan gratifikasi. Hasil laporan ini dipublikasikan pada Laporan Tahunan KPK dan Website KPK</p>",
+      "tujuan_kegiatan": "<ol><li><p style=\"text-align:justify;\">Memenuhi kebutuhan instansi dalam rangka penyelenggaraan tugas-tugas pemerintahan dan pembangunan yang merupakan tugas dan fungsi KPK </p></li><li><p style=\"text-align:justify;\">Memenuhi kebutuhan data bagi masyarakat luas </p></li><li><p style=\"text-align:justify;\">Sebagai acuan bahan laporan periodik </p></li><li><p style=\"text-align:justify;\">Sebagai bahan monitoring penerimaan dan pengelolaan Laporan Gratifikasi</p></li></ol>",
+      "rencana_jadwal_kegiatan": {
+        "perencanaan_kegiatan": {
+          "awal": "2025-12-01",
+          "akhir": "2025-12-31"
+        },
+        "pengumpulan_data": {
+          "awal": "2026-01-01",
+          "akhir": "2026-12-31"
+        },
+        "pengolahan_data": {
+          "awal": "2026-01-02",
+          "akhir": "2026-12-31"
+        },
+        "analisis": {
+          "awal": "2026-01-03",
+          "akhir": "2026-12-31"
+        },
+        "penyajian": {
+          "awal": "2027-01-15",
+          "akhir": "2027-01-15"
+        }
+      },
+      "variabel_yang_dikumpulkan": {
+        "items": [
+          {
+            "nama": "Jenis Objek Gratifikasi",
+            "definisi": "Klasifikasi Objek Gratifikasi yang dilaporkan pada laporan gratifikasi ",
+            "referensi_waktu": "2026",
+            "sumber": null
+          },
+          {
+            "nama": "enis Penetapan Status Kepemilikan Laporan Gratifikasi ",
+            "definisi": "Klasifikasi Laporan Gratifikasi berdasarkan penetapan status kepemilikan ",
+            "referensi_waktu": "2026",
+            "sumber": null
+          },
+          {
+            "nama": "Jenis BIdang Instansi Laporan Gratifikasi ",
+            "definisi": "Klasifikasi Laporan Gratifikasi berdasarkan bidang instansi pelapor gratifikasi ",
+            "referensi_waktu": "2026",
+            "sumber": null
+          },
+          {
+            "nama": "Jenis Sumber Laporan Gratifikasi ",
+            "definisi": "Klasifikasi Laporan Gratifikasi berdasarkan media pelaporan gratifikasi ",
+            "referensi_waktu": "2026",
+            "sumber": null
+          }
+        ],
+        "raw_text": null
+      }
+    },
+    "blok_iv": {
+      "kegiatan_ini_dilakukan": "berulang",
+      "frekuensi_penyelenggara": "tahunan",
+      "tipe_pengumpulan_data": "cross_sectional",
+      "cakupan_wilayah_pengumpulan_data": "seluruh_wilayah_indonesia",
+      "wilayah_pengumpulan_data": [],
+      "metode_pengumpulan_data": {
+        "wawancara": false,
+        "mengisi_kuesioner_sendiri": false,
+        "pengamatan": false,
+        "pengumpulan_data_sekunder": true,
+        "lainnya": false,
+        "metode_pengumpulan_lainnya": ""
+      },
+      "metode_pengumpulan_data_lainnya": "",
+      "sarana_pengumpulan_data": {
+        "papi": true,
+        "capi": true,
+        "cati": false,
+        "cawi": true,
+        "mail": true,
+        "lainnya": false,
+        "sarana_pengumpulan_lainnya": ""
+      }
+    },
+    "blok_v": {
+      "cara_pengumpulan_data": null,
+      "metode_penelitian": null,
+      "metode_sampel_non_probabilitas": null,
+      "jenis_rancangan_sampel": null,
+      "rancangan_sampel": null,
+      "kerangka_sampel": null,
+      "metode_pemilihan_sampel": null,
+      "fraksi_sampel": null,
+      "unit_sampel": null,
+      "perkiraan_sampling_error": null,
+      "responden": null
+    },
+    "blok_vi": {
+      "apakah_melakukan_uji_coba": false,
+      "penjelasan_uji_coba": null,
+      "petugas_pengumpulan_data": "staf_instansi_penyelenggara",
+      "persyaratan_pendidikan_terendah": "diploma",
+      "jumlah_supervisor": "4",
+      "jumlah_enumerator": "3",
+      "apakah_melakukan_pelatihan": true,
+      "penjelasan_pelatihan": null,
+      "metode_pemeriksaan_kualitas": {
+        "kunjungan_kembali": false,
+        "supervisi": true,
+        "task_force": false,
+        "lainnya": false,
+        "metode_pemeriksaan_kualitas_pengumpulan_data_lainnya": ""
+      }
+    },
+    "blok_vii": {
+      "tahapan_pengolahan_data": {
+        "editing": true,
+        "coding": true,
+        "data_entry": true,
+        "validasi": true
+      },
+      "metode_analisis": "analisis_deskriptif",
+      "unit_analisis": {
+        "individu": false,
+        "rumah_tangga": false,
+        "usaha_dan_perusahaan": false,
+        "lainnya": true,
+        "tingkat_penyajian_hasil_analisis_lainnya": "Laporan Gratifikasi dan Objek Gratifikasi"
+      },
+      "tingkat_penyajian_hasil_analisis": {
+        "nasional": true,
+        "provinsi": false,
+        "kabupaten_atau_kota": false,
+        "kecamatan": false,
+        "lainnya": false,
+        "tingkat_penyajian_hasil_analisis_lainnya": ""
+      }
+    },
+    "blok_viii": {
+      "ketersediaan_produk_tercetak": false,
+      "ketersediaan_produk_digital": true,
+      "ketersediaan_produk_mikrodata": false,
+      "ketersediaan_produk_makrodata": null,
+      "waktu_ketersediaan_hasil": null
+    },
+    "blok_ix": {
+      "file_berkas_pendukung": [
+        "56219-20250826-Form-Laporan-Gratifikasi-1.pdf"
+      ]
+    }
+  }
+}
