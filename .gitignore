@@ -1,0 +1,37 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Environment variables dan kredensial
+.env
+.env.*
+
+# Bobot model dan adapter (terlalu besar untuk GitHub)
+final_model/
+adapters/
+*.safetensors
+*.bin
+*.pt
+*.gguf
+
+# Data asli formulir (jangan dipublikasikan)
+data/raw/
+
+# Testing dan tooling
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editor dan sistem operasi
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
